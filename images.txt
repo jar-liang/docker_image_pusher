@@ -6,4 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 mongo:4.4
 #axboy/leanote:nodb-arm
-appbaseio/dejavu
+#appbaseio/dejavu
+mobz/elasticsearch-head:5
+kibana:7.6.1
+elasticsearch:7.6.1
