@@ -7,6 +7,7 @@
 #--platform=linux/arm64 mongo:4.4
 #axboy/leanote:nodb-arm
 #appbaseio/dejavu
-mobz/elasticsearch-head:5
-kibana:7.6.1
-elasticsearch:7.6.1
+#mobz/elasticsearch-head:5
+#kibana:7.6.1
+#elasticsearch:7.6.1
+--platform=linux/arm64/v8 jupyter/base-notebook:notebook-7.0.6
